@@ -1,0 +1,84 @@
+body{
+
+    background-color: snow;
+}
+img{
+
+width: 80px;
+height: 80px;
+}
+
+section{
+    background-size: 100%;
+    margin: 10px;
+}
+.xy{
+    background-size: 100%;
+}
+
+h1{
+   font-size: 45px;
+    text-align: center;
+    color: rgb(5, 5, 54);
+    font-family:cursive;
+    border: 4px dotted rgb(182, 179, 179);
+    margin-left: 28%;
+    margin-right: 28%;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgb(245, 244, 244);
+
+}
+h3{
+   color: rgb(14, 14, 14);
+   font-size: 30px;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   background-color: rgba(91, 252, 16, 0.527);
+   margin: auto;
+   padding: 10px;
+}
+table, th, td {
+    border: 3px solid rgb(129, 125, 125);
+    border-collapse: collapse;
+    background-color: rgb(231, 246, 250);
+    text-align: center;
+    width: 40%;
+    height: 50px;
+    font-size: 15px;
+    font-family: cursive;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+    
+  }
+  th{
+      background-color: rgba(244, 165, 96, 0.836);
+  }
+
+  p{
+
+    font-size: 20px;
+    text-align: justify;
+    font-family: sans-serif;
+  }
+
+  ul{
+      font-size: 18px;
+  }
+  ol{
+    
+    font-size: 18px;
+    
+  }
+
+  h4{
+      font-size: 22px;
+      color: rgba(240, 102, 23);
+  }
+
+  div{
+      background-color: rgb(228, 220, 220);
+      width: 20%;
+  }
