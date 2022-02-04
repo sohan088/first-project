@@ -2,31 +2,18 @@ body{
 
     background-color: snow;
 }
-img{
-
-width: 80px;
-height: 80px;
-}
-
-section{
-    background-size: 100%;
-    margin: 10px;
-}
-.xy{
-    background-size: 100%;
-}
 
 h1{
    font-size: 45px;
     text-align: center;
     color: rgb(5, 5, 54);
     font-family:cursive;
-    border: 4px dotted rgb(182, 179, 179);
+    border: 4px double rgb(182, 179, 179);
     margin-left: 28%;
     margin-right: 28%;
-    padding: 10px;
+    padding: 15px;
     border-radius: 25px;
-    background-color: rgb(245, 244, 244);
+    background-color: rgb(255, 255, 212);
 
 }
 h3{
@@ -38,14 +25,16 @@ h3{
    padding: 10px;
 }
 table, th, td {
-    border: 3px solid rgb(129, 125, 125);
+    border: 3px solid snow;
     border-collapse: collapse;
-    background-color: rgb(231, 246, 250);
+    border-radius: 30px;
+    background-color: snow;
     text-align: center;
     width: 40%;
     height: 50px;
     font-size: 15px;
     font-family: cursive;
+    font-style: oblique;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 30%;
@@ -55,6 +44,9 @@ table, th, td {
   }
   th{
       background-color: rgba(244, 165, 96, 0.836);
+  }
+  td{
+      background-color: turquoise;
   }
 
   p{
@@ -66,10 +58,12 @@ table, th, td {
 
   ul{
       font-size: 18px;
+      font-family: Arial, Helvetica, sans-serif;
   }
   ol{
     
     font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
     
   }
 
@@ -79,6 +73,8 @@ table, th, td {
   }
 
   div{
-      background-color: rgb(228, 220, 220);
+      background-color: rgb(235, 230, 230);
       width: 20%;
+      padding: 10px;
+      margin-bottom: 10px;
   }
